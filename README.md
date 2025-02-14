@@ -58,9 +58,14 @@ token3
 
 ## 🎮 Usage
 
-1. Start the bot:
+1. If you want to use your old account use this command :
 ```bash
 npm start
+```
+
+2. If you want to use Auto Generate Wallet + Auto Task use this command :
+```bash
+node auto.js
 ```
 
 The bot will automatically:
